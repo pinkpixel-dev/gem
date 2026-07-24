@@ -4,7 +4,7 @@
   <img src="./icon.png" alt=Logo" width="300" />
 </p>
 
-Gem is a desktop app that scans GitHub for small, active, well-made repositories. It's built to run locally, save the projects worth paying attention to, and skip the noise.
+Gem is a desktop app that scans GitHub for active, well-made repositories. It's built to run locally, save the projects worth paying attention to, and skip the noise.
 
 ## Why I made this
 
