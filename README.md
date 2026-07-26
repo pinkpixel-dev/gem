@@ -6,6 +6,10 @@
 
 Gem is a desktop app that scans GitHub for active, well-made repositories. It's built to run locally, save the projects worth paying attention to, and skip the noise.
 
+<p align="center">
+  <img src="./Screenshot.png" alt="Gem inbox showing scored repository discoveries and collection actions" width="1000" />
+</p>
+
 ## Why I made this
 
 I come across great projects sometimes, usually by accident. GitHub's trending page only shows what's already popular, and searching on Github can be a pain. This tool scans using search criteria you choose, and keeps everything sorted into a few simple categories.
